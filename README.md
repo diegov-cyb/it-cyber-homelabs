@@ -2,7 +2,7 @@
 Hands-on IT and Cybersecurity labs covering system administration, troubleshooting, security monitoring, and technical projects.
 
 ## Skills Demonstrated
-- Vulnerability scanning * remediation
+- Vulnerability scanning & remediation
 - SIEM deployment and log analysis
 - Malware detection & threat monitoring
 - System administration & troubleshooting
