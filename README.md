@@ -33,7 +33,7 @@ Repo: https://github.com/diegov-cyb/pc-build-assembly-troubleshooting
 Diagnosed hardware issues, completed BIOS updates, validated compatibility, and optimized performance.
 
 ### **Elastic Stack SIEM lab**
-(Repo In progress)
+Repo: https://github.com/diegov-cyb/elastic-stack-siem-lab
 
 Installed and configured Elastic SIEM for threat detection, alerting, and security visualization.
 
