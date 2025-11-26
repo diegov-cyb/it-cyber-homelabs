@@ -38,7 +38,7 @@ Repo: https://github.com/diegov-cyb/elastic-stack-siem-lab
 Installed and configured Elastic SIEM for threat detection, alerting, and security visualization.
 
 ### **Wi-Fi Troubleshooting & Analyzer lab**
-(Repo In progress)
+Repo: https://github.com/diegov-cyb/wifi-interference-analysis
 
 Identified interference, poor connection, and RF issues with Wi-Fi analysis tools.
 
