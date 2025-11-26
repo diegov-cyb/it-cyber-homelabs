@@ -1,7 +1,7 @@
 # it-cyber-homelabs
 Hands-on IT and Cybersecurity labs covering system administration, troubleshooting, security monitoring, and technical projects.
 
-## Skills Demonstrated
+## **Skills Demonstrated**
 - Vulnerability scanning & remediation
 - SIEM deployment and log analysis
 - Malware detection & threat monitoring
@@ -10,54 +10,54 @@ Hands-on IT and Cybersecurity labs covering system administration, troubleshooti
 - Endpoint hardening & secure configurations
 - Scripting, automation, and alerting fundamentals
 
-## Labs Included
+## **Labs Included**
 
-### ServiceNow ITSM - Incident & Request Management
+### **ServiceNow ITSM - Incident & Request Management**
 Repo: https://github.com/diegov-cyb/servicenow-itsm-incident-management
 
 Built an end-to-end ITSM workflow covering incident handling, SLA breaches, request fulfillment, work notes, and resolution documentation.
 
-### Greenbone / OpenVAS Vulnerability Scanning
+### **Greenbone / OpenVAS Vulnerability Scanning**
 Repo: https://github.com/diegov-cyb/greenbone-openvas-vulnerability-scanning
 
 Configured and ran vulnerability scans, reviewed findings, and analyzed CVSS-based risks.
 
-### Wazuh + AlienVault OTX + Kibana Monitoring
+### **Wazuh + AlienVault OTX + Kibana Monitoring**
 Repo: https://github.com/diegov-cyb/wazuh-alienvault-otx-kibana-monitoring-lab
 
 Built a security monitoring lab with Wazuh, log ingestion, and malware detection via OTX.
 
-### PC Assembly, Troubleshooting, & Performing Tuning
-(Repo In progress)
+### **PC Assembly, Troubleshooting, & Performing Tuning**
+Repo: https://github.com/diegov-cyb/pc-build-assembly-troubleshooting
 
 Diagnosed hardware issues, completed BIOS updates, validated compatibility, and optimized performance.
 
-### Elastic Stack SIEM lab
+### **Elastic Stack SIEM lab**
 (Repo In progress)
 
 Installed and configured Elastic SIEM for threat detection, alerting, and security visualization.
 
-### Wi-Fi Troubleshooting & Analyzer lab
+### **Wi-Fi Troubleshooting & Analyzer lab**
 (Repo In progress)
 
 Identified interference, poor connection, and RF issues with Wi-Fi analysis tools.
 
-### Emergency Services PC Upgrade
+### **Emergency Services PC Upgrade**
 (Repo In progress)
 
 Performed a full OS migration and data recovery for fire station.
 
-### Raspberry Pi Secure Remote Alert System
+### **Raspberry Pi Secure Remote Alert System**
 (Repo In progress)
 
 Built an encrypted remote-alert solution with SSH tunneling and secure configrations.
 
-### Laptop Revival / System Recovery
+### **Laptop Revival / System Recovery**
 (Repo In progress)
 
 Performed hardware cleanup, driver installation, and OS optimization to restore functionality.
 
-## Tools & Technology
+## **Tools & Technology**
 
 - Greenbone/ OpenVAS
 - Wazuh / Kibana / Elastic Stack
