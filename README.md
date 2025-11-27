@@ -57,6 +57,13 @@ Repo: https://github.com/diegov-cyb/reviving-laptop-performance
 
 Performed hardware cleanup, driver installation, and OS optimization to restore functionality.
 
+### **Repurposing Legacy Apple Hardware: Remote Workstation & Wireless Display Integration**
+Repo: coming soon
+
+Reclaimed an older macOS desktop by transforming it into a dual-purpose device:
+1) a wireless second display to enhance workspace productivity
+2) a fully functional remote-access workstation for network labs and testing
+
 ## **Tools & Technology**
 
 - Greenbone/ OpenVAS
