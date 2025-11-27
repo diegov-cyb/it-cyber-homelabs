@@ -53,7 +53,7 @@ Repo: https://github.com/diegov-cyb/secure-emergency-alert-display
 Built an encrypted remote-alert solution with SSH tunneling and secure configrations.
 
 ### **Laptop Revival / System Recovery**
-(Repo In progress)
+Repo: https://github.com/diegov-cyb/reviving-laptop-performance
 
 Performed hardware cleanup, driver installation, and OS optimization to restore functionality.
 
