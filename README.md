@@ -43,7 +43,7 @@ Repo: https://github.com/diegov-cyb/wifi-interference-analysis
 Identified interference, poor connection, and RF issues with Wi-Fi analysis tools.
 
 ### **Emergency Services PC Upgrade**
-(Repo In progress)
+Repo: https://github.com/diegov-cyb/emergency-pc-upgrade-clonezilla
 
 Performed a full OS migration and data recovery for fire station.
 
