@@ -48,7 +48,7 @@ Repo: https://github.com/diegov-cyb/emergency-pc-upgrade-clonezilla
 Performed a full OS migration and data recovery for fire station.
 
 ### **Raspberry Pi Secure Remote Alert System**
-(Repo In progress)
+Repo: https://github.com/diegov-cyb/secure-emergency-alert-display
 
 Built an encrypted remote-alert solution with SSH tunneling and secure configrations.
 
