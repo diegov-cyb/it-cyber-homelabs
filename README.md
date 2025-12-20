@@ -27,6 +27,11 @@ Repo: https://github.com/diegov-cyb/wazuh-alienvault-otx-kibana-monitoring-lab
 
 Built a security monitoring lab with Wazuh, log ingestion, and malware detection via OTX.
 
+### **Okta IAM Lab**
+Repo: https://github.com/diegov-cyb/okta-iam-lab
+
+Implemented a centralized identity management with Okta, including MFA enforcement, group-based access control, OIDC application integration, and IdP-initiated login.
+
 ### **PC Assembly, Troubleshooting, & Performing Tuning**
 Repo: https://github.com/diegov-cyb/pc-build-assembly-troubleshooting
 
@@ -73,3 +78,4 @@ Reclaimed an older macOS desktop by transforming it into a dual-purpose device:
 - Raspberry Pi / SSH
 - Window & Linux system utilities
 - Security & troubleshooting toolkits
+- Okta Workforce Identity (IAM, MFA, SSO)/OIDC / OAuth 2.0 authentication
